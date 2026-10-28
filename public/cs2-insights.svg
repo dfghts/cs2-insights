@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 112" role="img" aria-labelledby="title">
+  <title id="title">CS2 Insights</title>
+  <path d="M54 7 94 29v43L54 95 14 72V29Z" fill="rgb(18,23,31)" stroke="rgb(230,162,60)" stroke-width="3"/>
+  <path d="M54 20 82 36v29L54 81 26 65V36Z" fill="rgb(230,162,60)" fill-opacity=".11" stroke="rgb(230,162,60)" stroke-opacity=".4"/>
+  <circle cx="54" cy="51" r="19" fill="none" stroke="rgb(255,190,91)" stroke-width="3"/>
+  <circle cx="54" cy="51" r="7" fill="rgb(255,190,91)"/>
+  <path d="M54 22v12M54 68v12M25 51h12M71 51h12M34 31l8 8M66 63l8 8M74 31l-8 8M42 63l-8 8" stroke="rgb(255,190,91)" stroke-width="3" stroke-linecap="round"/>
+  <text x="116" y="59" font-family="Orbitron, Manrope, Arial, sans-serif" font-size="45" font-weight="800" letter-spacing="1.5" fill="rgb(241,245,250)">CS<tspan fill="rgb(230,162,60)">2</tspan></text>
+  <text x="120" y="87" font-family="Manrope, Arial, sans-serif" font-size="17" font-weight="800" letter-spacing="7.2" fill="rgb(156,168,185)">INSIGHTS</text>
+  <path d="M317 82h70" stroke="rgb(230,162,60)" stroke-width="2.5" stroke-linecap="round"/>
+  <circle cx="396" cy="82" r="3" fill="rgb(230,162,60)"/>
+</svg>
